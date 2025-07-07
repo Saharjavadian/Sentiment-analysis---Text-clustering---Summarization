@@ -1,5 +1,5 @@
 # Sentiment-analysis---Text-clustering---Summarization
-This project includes the following steps:
+This project includes the following steps:.<br>
 Step 1: Import necessary libraries.<br>
 Step 2: Read text files, structure them into rows, and create a DataFrame.<br>
 Step 3: Apply sentiment analysis on the text and add the results as a new column.<br>
